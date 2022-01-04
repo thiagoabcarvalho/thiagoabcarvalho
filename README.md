@@ -3,6 +3,7 @@
 - 🎓 Formado em Designer Gráfico
 - 🖥️ Estudande te Front-end e UI/UX
 - 🛠️ Trabalho como desenvolvedor front-end, UI e criação de conteúdo on-line.
+- 📨 contato@thiagoabcarvalho.com.br
 
 <div align="center">
   <a href="https://github.com/thiagoabcarvalho">
