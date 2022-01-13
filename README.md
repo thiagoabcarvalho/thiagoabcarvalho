@@ -1,10 +1,5 @@
 ## Ola sou Thiago Augusto.
 
-- 🎓 Formado em Designer Gráfico
-- 🖥️ Estudande te Front-end e UI/UX
-- 🛠️ Trabalho como desenvolvedor front-end, UI e criação de conteúdo on-line.
-- 📨 contato@thiagoabcarvalho.com.br
-
 <div align="center">
   <a href="https://github.com/thiagoabcarvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoabcarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
